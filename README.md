@@ -64,9 +64,25 @@ Press ESC key to stop the program.
 
 ├── README.md           # Project documentation
 
-├── .gitignore          # Optional: ignore unwanted files
+├── screenshot1.png
+
+├── screenshot2.png
+
+├── screenshot3.png
+
+├── hand_detected.png
+
 
 └── DATA\_BASE.csv       # Log file created at runtime
 
 
+## 📸 Screenshots
 
+### 🔴 Hand Detected in Danger Zone
+![Hand in red zone](hand_detected.png)
+
+
+### 🟢 Normal Operation
+![Normal screen](screenshot1.png)
+![Normal screen](screenshot2.png)
+![Normal screen](screenshot3.png)
